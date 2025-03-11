@@ -7,18 +7,28 @@ This project focuses on real-time object detection using the YOLOv8 model in Goo
 Features:-
 
 •	Real-time object detection using the YOLOv8 nano model.
+
 •	Webcam capture in Colab using JavaScript.
+
 •	Seamless integration of OpenCV, PyTorch, and Google Colab utilities.
+
 •	Bounding box visualization for detected objects.
+
 •	Efficient and scalable cloud-based solution.
+
 
 Tech Stack:_
 
 •	Python (for model processing)
+
 •	JavaScript (for webcam access)
+
 •	YOLOv8 (Ultralytics) (for object detection)
+
 •	OpenCV (for image processing)
+
 •	Google Colab (for execution)
+
 •	PyTorch (for deep learning operations)
 
 Installation & Setup:_
@@ -38,14 +48,16 @@ Installation & Setup:_
   	
 6.	Capture and process video frames:-
    
-o	Use JavaScript to capture webcam frames.
-o	Convert them into a format usable by YOLOv8.
-o	Perform object detection and visualize results.
+    	Use JavaScript to capture webcam frames.
+      Convert them into a format usable by YOLOv8.
+      Perform object detection and visualize results.
 
 Usage:
 
 •	Run the Colab notebook and execute the script.
+
 •	The webcam feed captures images in real-time.
+
 •	The YOLOv8 model processes each frame and displays detected objects with bounding boxes.
 
 Results
@@ -55,7 +67,9 @@ The project successfully implements real-time object detection in Google Colab, 
 Future Enhancements
 
 •	Implement multi-class detection with enhanced visualization.
+
 •	Optimize frame processing speed for better real-time performance.
+
 •	Expand support for custom object detection datasets.
 ________________________________________
 Developed with YOLOv8 & Google Colab 🚀
