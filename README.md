@@ -48,8 +48,10 @@ Installation & Setup:_
   	
 6.	Capture and process video frames:-
    
-    	Use JavaScript to capture webcam frames.
+      Use JavaScript to capture webcam frames.
+  	
       Convert them into a format usable by YOLOv8.
+  	
       Perform object detection and visualize results.
 
 Usage:
